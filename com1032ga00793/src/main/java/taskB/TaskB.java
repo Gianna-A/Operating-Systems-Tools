@@ -108,10 +108,6 @@ public class TaskB {
 
 		createProcesses();
 
-		// System.out.println("----------First Fit - for demo only, you can remove this
-		// part ---------");
-		// firstFit();
-
 		System.out.println("----------Best Fit - to be implemented ---------");
 		bestFit();
 
